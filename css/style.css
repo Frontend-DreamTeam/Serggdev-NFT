@@ -26,7 +26,7 @@
   font-style: normal;
 }
 
-[class*=__out-of-container] {
+[class*=_out-of-container] {
   padding-left: max(0.9375rem, (100% - 85.125rem) / 2);
 }
 
